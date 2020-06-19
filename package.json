@@ -1,0 +1,14 @@
+{
+  "name": "threes",
+  "version": "1.0.0",
+  "description": "threes library to create and render 3d components on a web browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.117.1"
+  }
+}
